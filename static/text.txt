@@ -1,0 +1,33 @@
+3
+firstly just a project to practise my skills, but i found it useful so i just
+used it as a search engine.
+secondly i attended the web designing class.
+thirdly it is the first project of mine that is web-based.
+
+5
+i used sqlite for database simply because it was easy. flask is also easy.
+and hosting python apps on pythonanywhere is also easy, so you can see that the
+design decisions are all made for simplicity.
+
+7
+during the school trip i finished the web spider, that should be the only appearance
+of the term "school trip".
+
+8
+then the ranking algorithm. i chose pagerank, which is based on finding the
+website that is linked to the most.
+
+11
+then the ui. just four pictures to see...
+
+12
+because the simplicity i just couldn't get it to run fast...
+
+13
+the web spider is just a 1-day product and was changed a lot during production.
+
+time left?
+yes ->
+    details of pagerank
+no  ->
+    just end it and blame at ivy
