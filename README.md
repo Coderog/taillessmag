@@ -1,5 +1,5 @@
 # taillessmag
-A small search engine. Made with Flask and SQLite, uses Page Rank.
+A small search engine. Made with Flask and SQLite, uses Page Rank. The web page uses Bootstrap.
 
 ## Build the database
 The website database is not included. You need to run the web spider to have the database in order to run the search engine.
